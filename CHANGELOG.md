@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* A simple easy to use flutter text draggable over widget written in dart.

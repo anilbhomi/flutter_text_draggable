@@ -1,7 +1,8 @@
 name: flutter_text_draggable
-description: A new Flutter package project.
+description: This is a package allowing flutter developers to drag text field above widget.
 version: 0.0.1
-homepage:
+authors: [Anil Bhomi<anilbhomi201@gmail.com>]
+homepage: https://github.com/anilbhomi/flutter_text_draggable.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
